@@ -1,8 +1,8 @@
 # Graph Modeling Course
 
-## Instructor : Luanne Misquitta (luanne@graphaware.com)
-## Date : 17-Jan-2015
-## Venue: Intsol Consultants Pvt. Ltd., Plot No: 17, #301, III Floor, “Krishna Grand”, Marathahalli Junction, Outer Ring Road,Bangalore - 560037.
+#### Instructor : Luanne Misquitta (luanne@graphaware.com)
+#### Date : 17-Jan-2015
+#### Venue: Intsol Consultants Pvt. Ltd., Plot No: 17, #301, III Floor, “Krishna Grand”, Marathahalli Junction, Outer Ring Road,Bangalore - 560037.
 
 ### Skills taught:
 * An understanding of the labeled property graph
