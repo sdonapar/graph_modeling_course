@@ -21,17 +21,17 @@
 
 * Linux/Mac/Windows zip
 
-1. Untar/unzip download
-2. Run Command: bin/neo4j start for Linux/Mac or just bin/neo4j for Windows
-3. Go to http://localhost:7474/ and verify that the Neo4j Browser loads
-4. Shut it down with a bin/neo4j stop for Linux/Mac or Ctrl-C for Windows
+	1. Untar/unzip download
+	2. Run Command: bin/neo4j start for Linux/Mac or just bin/neo4j for Windows
+	3. Go to http://localhost:7474/ and verify that the Neo4j Browser loads
+	4. Shut it down with a bin/neo4j stop for Linux/Mac or Ctrl-C for Windows
 
 * Windows Installer
 
-1. install neo4j and launch it
-2. Click on Browse and select a database location(create a new folder, say c:\tutorial)
-3. Clict start
-4. Go to http://localhost:7474/ and verify that the Neo4j Browser loads
+	1. install neo4j and launch it
+	2. Click on Browse and select a database location(create a new folder, say c:\tutorial)
+	3. Clict start
+	4. Go to http://localhost:7474/ and verify that the Neo4j Browser loads
 
 
 <b>exercises</b> folder contains the exercises practiced in the class
