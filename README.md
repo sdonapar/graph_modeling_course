@@ -18,5 +18,6 @@
 * install Neo4j - Go to http://neo4j.com/download/other­releases/ and download the Neo4j 2.1.6 Community edition. Do NOT download the 2.2 M02 Milestone release please.
 
 
-exercises folder contains the exercises practiced in the class
-notes folder contains the notes taken during the training session
+<b>exercises</b> folder contains the exercises practiced in the class
+
+<b>notes</b> folder contains the notes taken during the training session
